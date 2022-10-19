@@ -12,3 +12,4 @@ accessed because it was defined using the var keyword, meaning it has a
 function scope.
 
 ### Question 2.
+Line 13 will print '150' because that is 300 * (1 - 0.5). 
